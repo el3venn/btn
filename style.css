@@ -1,0 +1,19 @@
+.btn{
+  text-decoration: none;
+  font-size: 20;
+  color: orange;
+  background-color: purple;
+  padding: 10px;
+  margin: 10px;
+  border:2px #673AB7 solid;
+}
+.btn:hover{
+  color: lavender;
+  background-color: yellow;
+  border: 4px lavender;
+}
+.btn:active{
+  color: blue;
+  background-color: gold;
+  border: 2px blue;
+}
